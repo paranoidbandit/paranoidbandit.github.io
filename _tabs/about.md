@@ -11,8 +11,8 @@ I'm a cybersecurity enthusiast who enjoys breaking things, figuring out how they
 My main interests are **Capture The Flag (CTF), Penetration Testing, Web Security, Active Directory, Reverse Engineering, Digital Forensics, and offensive security**.
 
 ### Professional Experience
-September 2023 - March 2025 | Undisclosed | Penetration Tester
-March 2025 - Now | PT VisioNet Data Internasional | L2 Vulnerability Analyst
+- September 2023 - March 2025 | Undisclosed | Penetration Tester
+- March 2025 - Now | PT VisioNet Data Internasional | L2 Vulnerability Analyst
 
 ### Certifications
 * CHFI — Computer Hacking Forensic Investigator (EC - Council)
