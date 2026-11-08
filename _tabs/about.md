@@ -10,30 +10,11 @@ I'm a cybersecurity enthusiast who enjoys breaking things, figuring out how they
 
 My main interests are **Capture The Flag (CTF), Penetration Testing, Web Security, Active Directory, Reverse Engineering, Digital Forensics, and offensive security**.
 
-When I'm not working, you'll probably find me:
+### Professional Experience
+* September 2023 - March 2025 | Undisclosed | Penetration Tester
+* March 2025 - Now | PT VisioNet Data Internasional | L2 Vulnerability Analyst
 
-* 🕵️ Hunting vulnerabilities and solving CTF challenges in HackTheBox etc
-* 💻 Playing around with Linux, networks, and security tooling
-* 🔐 Learning offensive security and penetration testing
-* 🏴‍☠️ Participating in CTF competitions with my team
-
-### 💼 Professional Experience
-I'm currently working professionally in the cybersecurity field, where I get to apply security concepts and problem-solving skills to real-world environments.
-
-My professional interests include:
-
-* Penetration Testing
-* Offensive Security
-* Network Security
-* Web Application Security
-* Windows & Active Directory Security
-* Digital Forensics & Incident Response
-* Vulnerability Assessment
-
-### 🏆 Certifications
-* OSCP — Offensive Security Certified Professional (Offsec)
-* CPENT - Certified Penetration Testing Professional (EC - Council)
-* LPT - Licensed Penetration Tester Master (EC - Council)
+### Certifications
 * CHFI — Computer Hacking Forensic Investigator (EC - Council)
 * CNSP - Certified Network Security Practitioner (TheSecOps Group)
 * CAP - Certified AppSec Practitioner (TheSecOps Group)
@@ -41,6 +22,12 @@ My professional interests include:
 * CRTA - Certified Red Team Analyst (CyberWarfare Labs)
 * C3SA - Certified Cybersecurity Analyst (CyberWarfare Labs) 
 * ACP - APISecurity Certified Practitioner (APISec) 
+
+### Acknowledge
+* 2025 - CSIRT Diskominfo Kabupaten Blora - Responsible Vulnerability Identification
+* 2025 - CSIRT Diskominfo Kota Malang - Responsible Vulnerability Identification
+* 2025 - Badan Siber dan Sandi Negara (BSSN) - Voluntary Vulnerability Identification Program
+* 2026 - Badan Siber dan Sandi Negara (BSSN) & Pemerintah Provinsi Jawa Tengah - Voluntary Vulnerability Identification Program
 
 ### Cybersecurity
 
@@ -60,31 +47,15 @@ Some areas I spend time learning:
 
 ### CTF
 
-CTFs are one of my favorite ways to learn cybersecurity.
-
-I enjoy challenges that require a combination of **enumeration, exploitation, scripting, debugging, and thinking outside the box**. Whether it's a weird web application, an encrypted file, a suspicious binary, or an unnecessarily complicated Active Directory environment — I'm probably going to poke it until something interesting happens.
-
-> **Break it. Understand it. Document it.**
-
-### Tools & Technologies
-
-```text
-Linux              Windows
-Python              Bash
-PowerShell          Hashcat
-Burp Suite          Nmap
-NetExec             Impacket
-BloodHound          Wireshark
-Ghidra              IDA
-Metasploit          ffuf
-SQLMap              Gobuster
-```
+* 2026 - 14th ThryveCTF Jordania Open Qualifier Global Challanger Category & 37th All Category ( Team Grim Division )
+* 2026 - Ranked 58 from 888 Team - NNS Norwegia CTF ( Team Grim Division )
+* 2026 - Ranked 84 from 1000+ Team - NullOrigin CTF Qualifier ( Team Grim Division )
 
 ### Currently Learning
 
 I'm constantly trying to improve my understanding of:
 
-**Offensive Security, Red Teaming, Active Directory, Advanced Exploitation**
+**Offensive Security, Red Teaming, Active Directory, Advanced Exploitation & Security Operations**
 
 Currently preparing for more advanced penetration testing and offensive security challenges.
 
